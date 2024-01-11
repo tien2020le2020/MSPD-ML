@@ -1,6 +1,8 @@
 # Introduction
 
-For this assignment, we developed a machine learning model to predict the vertices that should serve as the sources.
+This repository presents the 3rd place solution for the MSPD Machine Learning [Contest](https://github.com/TILOS-AI-Institute/Multi-Source-Prim-Dijkstra/tree/main/contest).
+
+The approach is purely based on AI. A machine learning model is built to predict the vertices that should serve as the sources.
 
 # Train
 ## Target creation
